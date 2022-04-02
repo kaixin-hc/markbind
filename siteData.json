@@ -30,7 +30,9 @@
     {
       "src": "index.md",
       "title": "Landing Page",
-      "headings": {},
+      "headings": {
+        "this-is-the-current-version-version-2": "This is the current version, version 2"
+      },
       "headingKeywords": {}
     }
   ]
